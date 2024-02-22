@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 2rem;
+}
+h1 {
+    text-align: center;
+}
+label{
+    font-weight: ; 700;
+    front-size : 1.5rem;
+    margin-botton : 1ch;
+}
+
+.respuesta{
+    border: 1px solid gray;
+    border-radius: 15px;
+    padding-inline: 10px;
+    padding-block: 5px;
+    align-self: ; flex-start;
+    margin-block: 5p;
+}
+
+li{
+    list-style-type: none;
+}
+
+.respuesta:hover{
+    cursor: pointer;
+}
